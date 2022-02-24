@@ -1,0 +1,8 @@
+com/github/anant0070/kmm_network_request/android/databinding/ActivityMovieDetailsBinding.java
+ com.github.anant0070.kmm_network_request.android.databinding.ActivityMovieDetailsBinding
+com/github/anant0070/kmm_network_request/android/BuildConfig.java
+ com.github.anant0070.kmm_network_request.android.BuildConfig
+com/github/anant0070/kmm_network_request/android/databinding/ActivityMainBinding.java
+ com.github.anant0070.kmm_network_request.android.databinding.ActivityMainBinding
+com/github/anant0070/kmm_network_request/android/databinding/ItemPopularMoviesBinding.java
+ com.github.anant0070.kmm_network_request.android.databinding.ItemPopularMoviesBinding

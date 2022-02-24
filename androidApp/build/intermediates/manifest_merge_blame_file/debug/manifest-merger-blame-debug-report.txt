@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.github.anshul1507.kmm_network_request.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:5:5-67
+11-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:7:5-27:19
+14        android:allowBackup="false"
+14-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:8:9-36
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\16e5b24daba612e21afc5104b74567b5\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:supportsRtl="true"
+17-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:9:9-35
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:10:9-40
+20        <activity
+20-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:11:9-18:20
+21            android:name="com.github.anant0070.kmm_network_request.android.MainActivity"
+21-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:12:13-89
+22            android:exported="true" >
+22-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:13:13-36
+23            <intent-filter>
+23-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:14:13-17:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:15:17-69
+24-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:15:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:16:17-77
+26-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:16:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:20:9-22:39
+30            android:name="com.github.anant0070.kmm_network_request.android.movie_details.MovieDetailsActivity"
+30-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:21:13-111
+31            android:exported="true" />
+31-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:22:13-36
+32
+33        <meta-data
+33-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:24:9-26:57
+34            android:name="preloaded_fonts"
+34-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:25:13-43
+35            android:resource="@array/preloaded_fonts" />
+35-->D:\MovieApp\androidApp\src\main\AndroidManifest.xml:26:13-54
+36    </application>
+37
+38</manifest>

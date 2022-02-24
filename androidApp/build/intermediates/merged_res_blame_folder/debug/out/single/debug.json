@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\merged_res\\debug\\layout_activity_movie_details.xml.flat",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\layout\\activity_movie_details.xml"
+    },
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\merged_res\\debug\\drawable_ic_star.png.flat",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\drawable\\ic_star.png"
+    },
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\merged_res\\debug\\anim_slide_out_left.xml.flat",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\merged_res\\debug\\font_roboto.xml.flat",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\merged_res\\debug\\layout_item_popular_movies.xml.flat",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\layout\\item_popular_movies.xml"
+    },
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\merged_res\\debug\\anim_slide_in_right.xml.flat",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\merged_res\\debug\\drawable_ic_homepage.png.flat",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\drawable\\ic_homepage.png"
+    },
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\merged_res\\debug\\drawable_ic_youtube_trailer.png.flat",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\drawable\\ic_youtube_trailer.png"
+    },
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\merged_res\\debug\\drawable_ic_local_movies.xml.flat",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\drawable\\ic_local_movies.xml"
+    }
+]

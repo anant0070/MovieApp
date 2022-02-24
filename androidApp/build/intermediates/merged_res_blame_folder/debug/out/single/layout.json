@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_movie_details.xml",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\layout\\activity_movie_details.xml"
+    },
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MovieApp\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_popular_movies.xml",
+        "source": "D:\\MovieApp\\androidApp\\src\\main\\res\\layout\\item_popular_movies.xml"
+    }
+]

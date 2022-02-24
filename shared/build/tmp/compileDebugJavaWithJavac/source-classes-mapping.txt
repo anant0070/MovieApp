@@ -1,0 +1,2 @@
+com/github/anant0070/kmm_network_request/BuildConfig.java
+ com.github.anant0070.kmm_network_request.BuildConfig
